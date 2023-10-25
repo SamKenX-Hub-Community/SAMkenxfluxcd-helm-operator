@@ -6,8 +6,8 @@ require (
 	github.com/fluxcd/flux v1.17.2-0.20200121140732-3903cf8e71c3
 	github.com/fluxcd/helm-operator/pkg/install v0.0.0-00010101000000-000000000000
 	github.com/go-kit/kit v0.12.0
-	github.com/golang/protobuf v1.5.2
-	github.com/google/go-cmp v0.5.8
+	github.com/golang/protobuf v1.5.3
+	github.com/google/go-cmp v0.5.9
 	github.com/gorilla/mux v1.8.0
 	github.com/helm/helm-2to3 v0.8.2
 	github.com/ncabatoff/go-seq v0.0.0-20180805175032-b08ef85ed833
@@ -15,8 +15,8 @@ require (
 	github.com/prometheus/client_golang v1.12.2
 	github.com/shurcooL/vfsgen v0.0.0-20181202132449-6a9ea43bcacd
 	github.com/spf13/pflag v1.0.5
-	github.com/stretchr/testify v1.8.0
-	google.golang.org/grpc v1.47.0
+	github.com/stretchr/testify v1.8.3
+	google.golang.org/grpc v1.56.3
 	helm.sh/helm/v3 v3.6.3
 	k8s.io/api v0.22.5
 	k8s.io/apiextensions-apiserver v0.22.1
